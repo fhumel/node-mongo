@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed202331-4f85-4f6c-b344-d400a18d3325" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/controllers/orders.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/controllers/products.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/controllers/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/middleware/check-auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/models/order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/models/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/routes/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/models/products.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/models/products.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/routes/orders.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/routes/orders.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/routes/products.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/routes/products.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodemon.json" beforeDir="false" afterPath="$PROJECT_DIR$/nodemon.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VOVExPTp5iiHfwu4kUDMPACpS5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed202331-4f85-4f6c-b344-d400a18d3325" name="Default Changelist" comment="" />
+      <created>1577124020141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577124020141</updated>
+      <workItem from="1577124022219" duration="9362000" />
+      <workItem from="1577359361952" duration="2776000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="428" y="208" width="704" height="528" key="find.popup" timestamp="1577361648535">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="428" y="208" width="704" height="528" key="find.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1577361648535" />
+    <state x="624" y="253" key="run.anything.popup" timestamp="1577125659163">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="624" y="253" key="run.anything.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1577125659163" />
+    <state x="1421" y="283" key="search.everywhere.popup" timestamp="1577128513364">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1421" y="283" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1577128513364" />
+  </component>
+</project>
